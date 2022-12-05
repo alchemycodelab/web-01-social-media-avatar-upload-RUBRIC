@@ -1,1 +1,0 @@
-# web-01-social-media-avatar-upload-RUBRIC
