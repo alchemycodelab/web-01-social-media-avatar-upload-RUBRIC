@@ -1,10 +1,10 @@
-# web-01-social-media-avatar-upload-RUBRIC
+# Social Media App
 
 ### Template
 
 Begin with the [supabase-web-template](https://github.com/alchemycodelab/web-template-supabase)
 
-## Part A
+## Part A: Profile page with Avatar Upload
 
 Here is a sample schema for the `profiles` table:
 
